@@ -35,3 +35,8 @@ Activity 7
 
 ![Alt text](/images/Activity7-rebase.png)
 ![Alt text](/images/Activity7-homepage.png)
+
+Activity 8
+
+![Alt text](/images/Activity8-rebase.png)
+![Alt text](/images/Activity8-page.png)
