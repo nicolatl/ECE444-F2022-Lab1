@@ -19,3 +19,11 @@ https://github.com/hannahbrooks/ECE444-F2022-Lab1
 
 ![Alt text](/images/Activity4-mychange.png)
 ![Alt text](/images/Activity4-hannahchange.png)
+
+Activity 5
+
+![Alt text](/images/Activity5-rebaselog1.png)
+![Alt text](/images/Activity5-developlog1.png)
+![Alt text](/images/Activity5-rebase1.png)
+![Alt text](/images/Activity5-rebase2.png)
+
