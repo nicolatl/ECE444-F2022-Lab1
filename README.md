@@ -27,3 +27,6 @@ Activity 5
 ![Alt text](/images/Activity5-rebase1.png)
 ![Alt text](/images/Activity5-rebase2.png)
 
+Activity 6
+
+https://github.com/nicolatl/ECE444-F2022-EP
